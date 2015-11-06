@@ -18,12 +18,12 @@ Since this application relies on the device's accelerometer for orientation inpu
 ===========================================================================
 BUILD REQUIREMENTS:
 
-Mac OS X 10.5.3, Xcode 3.1, iPhone OS 2.0
+Mac OS X 10.6.3, iOS 4.0
 
 ===========================================================================
 RUNTIME REQUIREMENTS:
 
-Mac OS X 10.5.3, iPhone OS 2.0
+iOS 4.0
 
 ===========================================================================
 PACKAGING LIST:
@@ -52,6 +52,9 @@ A simple Objective-C wrapper around Audio Services functions that allow the load
 
 ===========================================================================
 CHANGES FROM PREVIOUS VERSIONS:
+
+Version 1.9
+- Updated for iOS 4.0.
 
 Version 1.8
 - Updated for and tested with iPhone OS 2.0. First public release.
@@ -84,4 +87,4 @@ Version 1.1:
 Changed animation used to transition from front (level view) to back (calibration view) to a standard flip transition. Cleaned up code throughout.
 
 ===========================================================================
-Copyright (C) 2008 Apple Inc. All rights reserved.
+Copyright (C) 2008-2010 Apple Inc. All rights reserved.
